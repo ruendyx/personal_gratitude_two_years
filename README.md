@@ -1,6 +1,8 @@
 # Gratitude Project:
 
-### Summary: A simple project about data I collected from writing down three things I am grateful for every morning over the last two years. The raw data was cleaned and categorized for simplicity and privacy purposes. The project contains basic SQL queries, python visualizations, and a tableau dashboard.
+### Summary: A simple project about data I collected from writing down three things I am grateful for every morning over the last two years. The raw data was cleaned and categorized for simplicity and privacy purposes. The project contains a spreadsheet, basic SQL queries, and visualizations created on Python.
+
+----------------------------------------------------------------------------------------------------
 
 **SQL Queries**
 ----------------------------------------------------------------------------------------------------
@@ -55,3 +57,16 @@ ORDER BY COUNT(*) DESC
 LIMIT 1;
 ```
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/126549337/231060325-99f7a9df-b5bd-48ac-bdff-a33f49525d56.png">
+
+------------------------------------------------------------------------------------------------------------------------------------
+## Conclusion:
+
+From doing this project and taking data on myself for the last two years, I've learned: 
+
+  1. I'm extremely grateful for my parents and family, as that has been consistent over the years and at a much larger scale than everything else I'm grateful for.
+  
+  2. I don't think much about my love life, material possessions, or the weather; which are all things that I've thought would make a bigger impact on my life. In terms of love life, maybe I've just been single for too long.
+  
+  3. Finally, sleep, sports, and being awake for a new day give me purpose and motivation to continue the fight of life. It's important to get good sleep, have a passion for something, and genuinenely be grateful for a new oppurtunity because it comes **every day**.
+  
+  
