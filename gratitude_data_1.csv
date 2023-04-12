@@ -1,0 +1,1403 @@
+﻿note_id,gratitude_type,time_of_event
+1,weekend,2021
+2,sleeping,2021
+3,parent,2021
+4,weather,2021
+5,sleeping,2021
+6,exercise,2021
+7,sports,2021
+8,sleeping,2021
+9,health,2021
+10,career,2021
+11,sleeping,2021
+12,sibling,2021
+13,friends,2021
+14,health,2021
+15,material,2021
+16,material,2021
+17,achievement,2021
+18,friends,2021
+19,specific friend,2021
+20,friends,2021
+21,family,2021
+22,sibling,2021
+23,friends,2021
+24,material,2021
+25,weekend,2021
+26,myself,2021
+27,parent,2021
+28,friends,2021
+29,fun,2021
+30,sleeping,2021
+31,health,2021
+32,sleeping,2021
+33,friends,2021
+34,sleeping,2021
+35,career,2021
+36,exercise,2021
+37,exercise,2021
+38,health,2021
+39,parent,2021
+40,material,2021
+41,weather,2021
+42,family,2021
+43,sleeping,2021
+44,friends,2021
+45,family,2021
+46,parent,2021
+47,parent,2021
+48,sibling,2021
+49,safety,2021
+50,specific friend,2021
+51,sports,2021
+52,new day,2021
+53,parent,2021
+54,specific family,2021
+55,sleeping,2021
+56,specific friend,2021
+57,faith,2021
+58,exercise,2021
+59,faith,2021
+60,parent,2021
+61,other,2021
+62,fun,2021
+63,family,2021
+64,weekend,2021
+65,friends,2021
+66,weather,2021
+67,other,2021
+68,other,2021
+69,new day,2021
+70,safety,2021
+71,friends,2021
+72,love,2021
+73,love,2021
+74,parent,2021
+75,specific family,2021
+76,mental health,2021
+77,home,2021
+78,career,2021
+79,material,2021
+80,family,2021
+81,friends,2021
+82,material,2021
+83,education,2021
+84,health,2021
+85,mental health,2021
+86,weekend,2021
+87,faith,2021
+88,friends,2021
+89,friends,2021
+90,health,2021
+91,family,2021
+92,mental health,2021
+93,specific family,2021
+94,sports,2021
+95,parent,2021
+96,specific friend,2021
+97,fun,2021
+98,faith,2021
+99,education,2021
+100,specific friend,2021
+101,family,2021
+102,health,2021
+103,material,2021
+104,friends,2021
+105,safety,2021
+106,specific friend,2021
+107,specific friend,2021
+108,specific friend,2021
+109,specific friend,2021
+110,specific friend,2021
+111,specific friend,2021
+112,sleeping,2021
+113,mental health,2021
+114,health,2021
+115,education,2021
+116,sports,2021
+117,new day,2021
+118,mental health,2021
+119,health,2021
+120,family,2021
+121,friends,2021
+122,family,2021
+123,faith,2021
+124,friends,2021
+125,fun,2021
+126,new day,2021
+127,specific friend,2021
+128,fun,2021
+129,weekend,2021
+130,family,2021
+131,mental health,2021
+132,health,2021
+133,new day,2021
+134,sports,2021
+135,sleeping,2021
+136,specific friend,2021
+137,specific family,2021
+138,specific family,2021
+139,weekend,2021
+140,sleeping,2021
+141,new day,2021
+142,home,2021
+143,new day,2021
+144,mental health,2021
+145,health,2021
+146,mental health,2021
+147,achievement,2021
+148,weekend,2021
+149,sleeping,2021
+150,new day,2021
+151,weekend,2021
+152,family,2021
+153,new day,2021
+154,weekend,2021
+155,entertainment,2021
+156,new day,2021
+157,friends,2021
+158,family,2021
+159,faith,2021
+160,family,2021
+161,friends,2021
+162,sleeping,2021
+163,family,2021
+164,weekend,2021
+165,sports,2021
+166,parent,2021
+167,fun,2021
+168,safety,2021
+169,friends,2021
+170,specific friend,2021
+171,mental health,2021
+172,safety,2021
+173,weekend,2021
+174,home,2021
+175,new day,2021
+176,new day,2021
+177,family,2021
+178,friends,2021
+179,family,2021
+180,sleeping,2021
+181,myself,2021
+182,travel,2021
+183,love,2021
+184,weekend,2021
+185,sleeping,2021
+186,entertainment,2021
+187,friends,2021
+188,friends,2021
+189,sports,2021
+190,entertainment,2021
+191,sleeping,2021
+192,friends,2021
+193,new day,2021
+194,mental health,2021
+195,love,2021
+196,friends,2021
+197,mental health,2021
+198,family,2021
+199,sleeping,2021
+200,sleeping,2021
+201,weather,2021
+202,career,2021
+203,weekend,2021
+204,sleeping,2021
+205,fun,2021
+206,family,2021
+207,health,2021
+208,new day,2021
+209,family,2021
+210,specific friend,2021
+211,exercise,2021
+212,career,2021
+213,parent,2021
+214,fun,2021
+215,health,2021
+216,fun,2021
+217,friends,2021
+218,weekend,2021
+219,specific family,2021
+220,parent,2021
+221,parent,2021
+222,parent,2021
+223,sibling,2021
+224,parent,2021
+225,exercise,2021
+226,fun,2021
+227,friends,2021
+228,family,2021
+229,health,2021
+230,travel,2021
+231,weekend,2021
+232,family,2021
+233,fun,2021
+234,friends,2021
+235,weekend,2021
+236,friends,2021
+237,family,2021
+238,myself,2021
+239,parent,2021
+240,faith,2021
+241,sibling,2021
+242,faith,2021
+243,parent,2021
+244,sibling,2021
+245,faith,2021
+246,parent,2021
+247,sibling,2021
+248,sports,2021
+249,specific friend,2021
+250,parent,2021
+251,exercise,2021
+252,parent,2021
+253,education,2021
+254,entertainment,2021
+255,specific friend,2021
+256,fun,2021
+257,fun,2021
+258,education,2021
+259,specific family,2021
+260,fun,2021
+261,sleeping,2021
+262,parent,2021
+263,parent,2021
+264,material,2021
+265,career,2021
+266,friends,2021
+267,parent,2021
+268,career,2021
+269,friends,2021
+270,career,2021
+271,parent,2021
+272,family,2021
+273,weekend,2021
+274,travel,2021
+275,family,2021
+276,home,2021
+277,friends,2021
+278,parent,2021
+279,new day,2021
+280,friends,2021
+281,sleeping,2021
+282,faith,2021
+283,specific friend,2021
+284,parent,2021
+285,faith,2021
+286,weekend,2021
+287,family,2021
+288,specific friend,2021
+289,friends,2021
+290,family,2021
+291,weekend,2021
+292,fun,2021
+293,new day,2021
+294,education,2021
+295,sports,2021
+296,sleeping,2021
+297,parent,2021
+298,family,2021
+299,friends,2021
+300,parent,2021
+301,parent,2021
+302,friends,2021
+303,home,2021
+304,myself,2021
+305,career,2021
+306,parent,2021
+307,friends,2021
+308,fun,2021
+309,safety,2021
+310,new day,2021
+311,sports,2021
+312,mental health,2021
+313,parent,2021
+314,sleeping,2021
+315,parent,2021
+316,parent,2021
+317,health,2021
+318,sports,2021
+319,parent,2021
+320,home,2021
+321,parent,2021
+322,travel,2021
+323,weekend,2021
+324,new day,2021
+325,friends,2021
+326,sports,2021
+327,sleeping,2021
+328,career,2021
+329,myself,2021
+330,education,2021
+331,education,2021
+332,myself,2021
+333,career,2021
+334,friends,2021
+335,myself,2021
+336,friends,2021
+337,myself,2021
+338,parent,2021
+339,specific friend,2021
+340,weekend,2021
+341,fun,2021
+342,parent,2021
+343,friends,2021
+344,health,2021
+345,parent,2021
+346,faith,2021
+347,myself,2021
+348,parent,2021
+349,health,2021
+350,faith,2021
+351,health,2021
+352,faith,2021
+353,sleeping,2021
+354,friends,2021
+355,career,2021
+356,family,2021
+357,parent,2021
+358,specific family,2021
+359,family,2021
+360,weekend,2021
+361,myself,2021
+362,weekend,2021
+363,sibling,2021
+364,parent,2021
+365,mental health,2021
+366,health,2021
+367,work from home,2021
+368,career,2021
+369,family,2021
+370,specific friend,2021
+371,specific friend,2021
+372,friends,2021
+373,family,2021
+374,friends,2021
+375,faith,2021
+376,new day,2021
+377,friends,2021
+378,myself,2021
+379,new day,2021
+380,career,2021
+381,health,2021
+382,family,2021
+383,faith,2021
+384,parent,2021
+385,career,2021
+386,friends,2021
+387,myself,2021
+388,career,2021
+389,specific friend,2021
+390,specific friend,2021
+391,fun,2021
+392,sleeping,2021
+393,home,2021
+394,new day,2021
+395,material,2021
+396,friends,2021
+397,family,2021
+398,parent,2021
+399,work from home,2021
+400,sports,2021
+401,career,2021
+402,parent,2021
+403,friends,2021
+404,education,2021
+405,fun,2021
+406,sleeping,2021
+407,specific friend,2021
+408,specific friend,2021
+409,fun,2021
+410,sports,2021
+411,mental health,2021
+412,friends,2021
+413,weekend,2021
+414,fun,2021
+415,sports,2021
+416,education,2021
+417,parent,2021
+418,sports,2021
+419,work from home,2021
+420,family,2021
+421,sibling,2021
+422,education,2021
+423,love,2021
+424,parent,2021
+425,achievement,2021
+426,myself,2021
+427,family,2021
+428,entertainment,2021
+429,friends,2021
+430,myself,2021
+431,weekend,2021
+432,friends,2021
+433,parent,2021
+434,parent,2021
+435,friends,2021
+436,sibling,2021
+437,achievement,2021
+438,entertainment,2021
+439,career,2021
+440,parent,2021
+441,health,2021
+442,faith,2021
+443,health,2021
+444,weekend,2021
+445,friends,2021
+446,fun,2021
+447,parent,2021
+448,specific friend,2021
+449,sports,2021
+450,friends,2021
+451,family,2021
+452,exercise,2021
+453,sleeping,2021
+454,material,2021
+455,material,2021
+456,career,2021
+457,family,2021
+458,career,2021
+459,family,2021
+460,myself,2021
+461,family,2021
+462,weekend,2021
+463,friends,2021
+464,friends,2021
+465,fun,2021
+466,family,2021
+467,sports,2021
+468,parent,2021
+469,sibling,2021
+470,family,2021
+471,achievement,2021
+472,myself,2021
+473,fun,2021
+474,family,2021
+475,myself,2021
+476,sibling,2021
+477,parent,2021
+478,parent,2021
+479,family,2021
+480,friends,2021
+481,weekend,2021
+482,family,2021
+483,friends,2021
+484,material,2021
+485,family,2021
+486,new day,2021
+487,sleeping,2021
+488,family,2021
+489,achievement,2021
+490,achievement,2021
+491,family,2021
+492,friends,2021
+493,weekend,2021
+494,weekend,2021
+495,sibling,2021
+496,myself,2021
+497,sleeping,2021
+498,new day,2021
+499,weather,2021
+500,sports,2021
+501,friends,2021
+502,faith,2021
+503,education,2021
+504,friends,2021
+505,career,2021
+506,family,2021
+507,faith,2021
+508,myself,2021
+509,travel,2021
+510,parent,2021
+511,friends,2021
+512,myself,2021
+513,health,2021
+514,sports,2021
+515,sibling,2021
+516,parent,2021
+517,home,2021
+518,sleeping,2021
+519,entertainment,2021
+520,parent,2021
+521,parent,2021
+522,entertainment,2021
+523,parent,2021
+524,travel,2021
+525,sibling,2021
+526,travel,2021
+527,family,2021
+528,sibling,2021
+529,sleeping,2021
+530,work from home,2021
+531,mental health,2021
+532,friends,2021
+533,family,2021
+534,entertainment,2021
+535,sleeping,2021
+536,family,2021
+537,new day,2021
+538,new day,2022
+539,love,2022
+540,friends,2022
+541,family,2022
+542,myself,2022
+543,new day,2022
+544,myself,2022
+545,achievement,2022
+546,myself,2022
+547,exercise,2022
+548,food,2022
+549,faith,2022
+550,parent,2022
+551,education,2022
+552,work from home,2022
+553,education,2022
+554,friends,2022
+555,work from home,2022
+556,travel,2022
+557,family,2022
+558,faith,2022
+559,travel,2022
+560,specific friend,2022
+561,sports,2022
+562,family,2022
+563,education,2022
+564,work from home,2022
+565,sibling,2022
+566,sibling,2022
+567,sibling,2022
+568,sibling,2022
+569,specific family,2022
+570,sports,2022
+571,work from home,2022
+572,sports,2022
+573,education,2022
+574,weekend,2022
+575,material,2022
+576,entertainment,2022
+577,family,2022
+578,sports,2022
+579,family,2022
+580,work from home,2022
+581,sports,2022
+582,education,2022
+583,work from home,2022
+584,sports,2022
+585,specific family,2022
+586,sibling,2022
+587,specific family,2022
+588,work from home,2022
+589,family,2022
+590,material,2022
+591,family,2022
+592,sibling,2022
+593,specific family,2022
+594,weekend,2022
+595,sports,2022
+596,entertainment,2022
+597,family,2022
+598,sports,2022
+599,family,2022
+600,sleeping,2022
+601,sibling,2022
+602,sleeping,2022
+603,sports,2022
+604,exercise,2022
+605,sibling,2022
+606,exercise,2022
+607,exercise,2022
+608,sibling,2022
+609,parent,2022
+610,sibling,2022
+611,exercise,2022
+612,weekend,2022
+613,faith,2022
+614,material,2022
+615,sibling,2022
+616,food,2022
+617,sibling,2022
+618,sleeping,2022
+619,myself,2022
+620,family,2022
+621,faith,2022
+622,parent,2022
+623,work from home,2022
+624,sibling,2022
+625,sleeping,2022
+626,family,2022
+627,work from home,2022
+628,exercise,2022
+629,work from home,2022
+630,family,2022
+631,travel,2022
+632,sibling,2022
+633,friends,2022
+634,travel,2022
+635,friends,2022
+636,travel,2022
+637,safety,2022
+638,family,2022
+639,sleeping,2022
+640,sleeping,2022
+641,family,2022
+642,friends,2022
+643,education,2022
+644,work from home,2022
+645,mental health,2022
+646,family,2022
+647,weekend,2022
+648,sports,2022
+649,sibling,2022
+650,parent,2022
+651,family,2022
+652,fun,2022
+653,sports,2022
+654,family,2022
+655,sports,2022
+656,new day,2022
+657,family,2022
+658,work from home,2022
+659,exercise,2022
+660,sports,2022
+661,family,2022
+662,friends,2022
+663,weather,2022
+664,family,2022
+665,sports,2022
+666,work from home,2022
+667,family,2022
+668,other,2022
+669,friends,2022
+670,fun,2022
+671,education,2022
+672,weekend,2022
+673,weekend,2022
+674,family,2022
+675,weekend,2022
+676,fun,2022
+677,parent,2022
+678,family,2022
+679,work from home,2022
+680,sleeping,2022
+681,travel,2022
+682,family,2022
+683,fun,2022
+684,travel,2022
+685,family,2022
+686,travel,2022
+687,sleeping,2022
+688,health,2022
+689,family,2022
+690,sleeping,2022
+691,parent,2022
+692,sibling,2022
+693,parent,2022
+694,family,2022
+695,myself,2022
+696,faith,2022
+697,faith,2022
+698,faith,2022
+699,parent,2022
+700,family,2022
+701,specific family,2022
+702,new day,2022
+703,food,2022
+704,parent,2022
+705,sports,2022
+706,myself,2022
+707,exercise,2022
+708,education,2022
+709,career,2022
+710,weekend,2022
+711,parent,2022
+712,myself,2022
+713,sports,2022
+714,specific friend,2022
+715,specific friend,2022
+716,specific friend,2022
+717,fun,2022
+718,weekend,2022
+719,new day,2022
+720,family,2022
+721,friends,2022
+722,myself,2022
+723,achievement,2022
+724,achievement,2022
+725,achievement,2022
+726,achievement,2022
+727,travel,2022
+728,safety,2022
+729,sleeping,2022
+730,career,2022
+731,fun,2022
+732,exercise,2022
+733,sleeping,2022
+734,fun,2022
+735,family,2022
+736,mental health,2022
+737,family,2022
+738,sports,2022
+739,achievement,2022
+740,achievement,2022
+741,family,2022
+742,specific family,2022
+743,specific family,2022
+744,achievement,2022
+745,exercise,2022
+746,parent,2022
+747,achievement,2022
+748,education,2022
+749,sibling,2022
+750,career,2022
+751,career,2022
+752,career,2022
+753,specific friend,2022
+754,specific friend,2022
+755,specific friend,2022
+756,safety,2022
+757,fun,2022
+758,family,2022
+759,sports,2022
+760,safety,2022
+761,weekend,2022
+762,new day,2022
+763,weather,2022
+764,sports,2022
+765,family,2022
+766,sleeping,2022
+767,education,2022
+768,sports,2022
+769,entertainment,2022
+770,sports,2022
+771,sports,2022
+772,sibling,2022
+773,friends,2022
+774,sibling,2022
+775,specific family,2022
+776,safety,2022
+777,sleeping,2022
+778,sports,2022
+779,family,2022
+780,new day,2022
+781,new day,2022
+782,friends,2022
+783,sleeping,2022
+784,sports,2022
+785,home,2022
+786,exercise,2022
+787,sleeping,2022
+788,sports,2022
+789,family,2022
+790,education,2022
+791,travel,2022
+792,parent,2022
+793,parent,2022
+794,home,2022
+795,family,2022
+796,exercise,2022
+797,work from home,2022
+798,sports,2022
+799,education,2022
+800,weekend,2022
+801,weekend,2022
+802,weather,2022
+803,friends,2022
+804,family,2022
+805,entertainment,2022
+806,parent,2022
+807,parent,2022
+808,sibling,2022
+809,sports,2022
+810,new day,2022
+811,weather,2022
+812,weather,2022
+813,education,2022
+814,work from home,2022
+815,sleeping,2022
+816,health,2022
+817,faith,2022
+818,work from home,2022
+819,friends,2022
+820,family,2022
+821,fun,2022
+822,friends,2022
+823,sports,2022
+824,weather,2022
+825,new day,2022
+826,family,2022
+827,sleeping,2022
+828,specific friend,2022
+829,work from home,2022
+830,family,2022
+831,mental health,2022
+832,sports,2022
+833,career,2022
+834,career,2022
+835,sleeping,2022
+836,fun,2022
+837,travel,2022
+838,entertainment,2022
+839,friends,2022
+840,friends,2022
+841,family,2022
+842,travel,2022
+843,myself,2022
+844,myself,2022
+845,family,2022
+846,parent,2022
+847,parent,2022
+848,career,2022
+849,family,2022
+850,career,2022
+851,friends,2022
+852,sleeping,2022
+853,food,2022
+854,sibling,2022
+855,family,2022
+856,fun,2022
+857,fun,2022
+858,health,2022
+859,sports,2022
+860,family,2022
+861,fun,2022
+862,friends,2022
+863,parent,2022
+864,home,2022
+865,work from home,2022
+866,family,2022
+867,myself,2022
+868,sleeping,2022
+869,education,2022
+870,myself,2022
+871,specific family,2022
+872,parent,2022
+873,safety,2022
+874,sibling,2022
+875,specific family,2022
+876,entertainment,2022
+877,exercise,2022
+878,family,2022
+879,new day,2022
+880,myself,2022
+881,myself,2022
+882,family,2022
+883,fun,2022
+884,myself,2022
+885,sports,2022
+886,work from home,2022
+887,myself,2022
+888,family,2022
+889,career,2022
+890,myself,2022
+891,parent,2022
+892,exercise,2022
+893,myself,2022
+894,weekend,2022
+895,weekend,2022
+896,sports,2022
+897,family,2022
+898,friends,2022
+899,sleeping,2022
+900,home,2022
+901,family,2022
+902,home,2022
+903,family,2022
+904,new day,2022
+905,mental health,2022
+906,sleeping,2022
+907,weather,2022
+908,education,2022
+909,sports,2022
+910,weekend,2022
+911,weekend,2022
+912,fun,2022
+913,food,2022
+914,faith,2022
+915,sports,2022
+916,parent,2022
+917,fun,2022
+918,family,2022
+919,work from home,2022
+920,sports,2022
+921,new day,2022
+922,weather,2022
+923,education,2022
+924,sleeping,2022
+925,exercise,2022
+926,education,2022
+927,sports,2022
+928,myself,2022
+929,work from home,2022
+930,sleeping,2022
+931,weekend,2022
+932,exercise,2022
+933,weekend,2022
+934,weather,2022
+935,exercise,2022
+936,fun,2022
+937,achievement,2022
+938,work from home,2022
+939,sleeping,2022
+940,new day,2022
+941,sports,2022
+942,parent,2022
+943,family,2022
+944,achievement,2022
+945,parent,2022
+946,parent,2022
+947,sibling,2022
+948,sports,2022
+949,work from home,2022
+950,family,2022
+951,weekend,2022
+952,weekend,2022
+953,exercise,2022
+954,fun,2022
+955,family,2022
+956,weekend,2022
+957,parent,2022
+958,parent,2022
+959,parent,2022
+960,travel,2022
+961,weekend,2022
+962,sleeping,2022
+963,sleeping,2022
+964,parent,2022
+965,sibling,2022
+966,work from home,2022
+967,achievement,2022
+968,family,2022
+969,new day,2022
+970,sports,2022
+971,parent,2022
+972,sibling,2022
+973,sibling,2022
+974,travel,2022
+975,parent,2022
+976,sibling,2022
+977,parent,2022
+978,health,2022
+979,work from home,2022
+980,family,2022
+981,family,2022
+982,weekend,2022
+983,sleeping,2022
+984,friends,2022
+985,family,2022
+986,safety,2022
+987,family,2022
+988,weekend,2022
+989,entertainment,2022
+990,fun,2022
+991,friends,2022
+992,family,2022
+993,sleeping,2022
+994,work from home,2022
+995,family,2022
+996,myself,2022
+997,new day,2022
+998,mental health,2022
+999,weekend,2022
+1000,new day,2022
+1001,parent,2022
+1002,parent,2022
+1003,entertainment,2022
+1004,fun,2022
+1005,work from home,2022
+1006,career,2022
+1007,specific family,2022
+1008,family,2022
+1009,myself,2022
+1010,parent,2022
+1011,parent,2022
+1012,fun,2022
+1013,work from home,2022
+1014,specific family,2022
+1015,family,2022
+1016,new day,2022
+1017,specific family,2022
+1018,sibling,2022
+1019,weekend,2022
+1020,other,2022
+1021,specific family,2022
+1022,friends,2022
+1023,family,2022
+1024,fun,2022
+1025,weekend,2022
+1026,friends,2022
+1027,family,2022
+1028,specific friend,2022
+1029,travel,2022
+1030,travel,2022
+1031,parent,2022
+1032,family,2022
+1033,travel,2022
+1034,love,2022
+1035,family,2022
+1036,myself,2022
+1037,sleeping,2022
+1038,family,2022
+1039,new day,2022
+1040,family,2022
+1041,work from home,2022
+1042,parent,2022
+1043,sibling,2022
+1044,sleeping,2022
+1045,sleeping,2022
+1046,weekend,2022
+1047,parent,2022
+1048,parent,2022
+1049,sibling,2022
+1050,weekend,2022
+1051,work from home,2022
+1052,new day,2022
+1053,parent,2022
+1054,new day,2022
+1055,sleeping,2022
+1056,weather,2022
+1057,new day,2022
+1058,work from home,2022
+1059,myself,2022
+1060,new day,2022
+1061,new day,2022
+1062,parent,2022
+1063,weekend,2022
+1064,parent,2022
+1065,sleeping,2022
+1066,myself,2022
+1067,weekend,2022
+1068,new day,2022
+1069,myself,2022
+1070,parent,2022
+1071,parent,2022
+1072,parent,2022
+1073,work from home,2022
+1074,sibling,2022
+1075,new day,2022
+1076,myself,2022
+1077,new day,2022
+1078,myself,2022
+1079,weekend,2022
+1080,new day,2022
+1081,friends,2022
+1082,parent,2022
+1083,family,2022
+1084,achievement,2022
+1085,family,2022
+1086,love,2022
+1087,sibling,2022
+1088,parent,2022
+1089,parent,2022
+1090,work from home,2022
+1091,sports,2022
+1092,myself,2022
+1093,parent,2022
+1094,myself,2022
+1095,sibling,2022
+1096,weekend,2022
+1097,work from home,2022
+1098,parent,2022
+1099,parent,2022
+1100,family,2022
+1101,new day,2022
+1102,new day,2022
+1103,sibling,2022
+1104,mental health,2022
+1105,fun,2022
+1106,new day,2022
+1107,fun,2022
+1108,specific friend,2022
+1109,friends,2022
+1110,faith,2022
+1111,achievement,2022
+1112,work from home,2022
+1113,mental health,2022
+1114,sports,2022
+1115,parent,2022
+1116,sleeping,2022
+1117,weekend,2022
+1118,weather,2022
+1119,parent,2022
+1120,parent,2022
+1121,friends,2022
+1122,myself,2022
+1123,new day,2022
+1124,parent,2022
+1125,parent,2022
+1126,new day,2022
+1127,parent,2022
+1128,myself,2022
+1129,mental health,2022
+1130,family,2022
+1131,weather,2022
+1132,new day,2022
+1133,friends,2022
+1134,sports,2022
+1135,weekend,2022
+1136,specific friend,2022
+1137,sleeping,2022
+1138,fun,2022
+1139,specific friend,2022
+1140,family,2022
+1141,myself,2022
+1142,family,2022
+1143,sleeping,2022
+1144,travel,2022
+1145,sleeping,2022
+1146,family,2022
+1147,travel,2022
+1148,home,2022
+1149,travel,2022
+1150,sleeping,2022
+1151,parent,2022
+1152,faith,2022
+1153,health,2022
+1154,sleeping,2022
+1155,family,2022
+1156,myself,2022
+1157,exercise,2022
+1158,faith,2022
+1159,sports,2022
+1160,exercise,2022
+1161,myself,2022
+1162,work from home,2022
+1163,sports,2022
+1164,sleeping,2022
+1165,career,2022
+1166,family,2022
+1167,faith,2022
+1168,myself,2022
+1169,love,2022
+1170,faith,2022
+1171,parent,2022
+1172,home,2022
+1173,family,2022
+1174,weekend,2022
+1175,sleeping,2022
+1176,fun,2022
+1177,sibling,2022
+1178,parent,2022
+1179,specific family,2022
+1180,specific friend,2022
+1181,parent,2022
+1182,family,2022
+1183,new day,2022
+1184,sports,2022
+1185,food,2022
+1186,family,2022
+1187,new day,2022
+1188,new day,2022
+1189,sleeping,2022
+1190,weekend,2022
+1191,weekend,2022
+1192,career,2022
+1193,career,2022
+1194,fun,2022
+1195,family,2022
+1196,myself,2022
+1197,new day,2022
+1198,family,2022
+1199,myself,2022
+1200,family,2022
+1201,new day,2022
+1202,myself,2022
+1203,family,2022
+1204,achievement,2022
+1205,weekend,2022
+1206,career,2022
+1207,friends,2022
+1208,family,2022
+1209,fun,2022
+1210,weather,2022
+1211,health,2022
+1212,family,2022
+1213,education,2022
+1214,sports,2022
+1215,family,2022
+1216,achievement,2022
+1217,material,2022
+1218,work from home,2022
+1219,faith,2022
+1220,parent,2022
+1221,weekend,2022
+1222,fun,2022
+1223,weekend,2022
+1224,sports,2022
+1225,sports,2022
+1226,food,2022
+1227,specific family,2022
+1228,parent,2022
+1229,specific family,2022
+1230,work from home,2022
+1231,work from home,2022
+1232,achievement,2022
+1233,faith,2022
+1234,career,2022
+1235,family,2022
+1236,friends,2022
+1237,family,2022
+1238,sleeping,2022
+1239,work from home,2022
+1240,family,2022
+1241,sports,2022
+1242,specific friend,2022
+1243,myself,2022
+1244,family,2022
+1245,sports,2022
+1246,work from home,2022
+1247,sleeping,2022
+1248,material,2022
+1249,entertainment,2022
+1250,entertainment,2022
+1251,entertainment,2022
+1252,sibling,2022
+1253,specific family,2022
+1254,fun,2022
+1255,friends,2022
+1256,work from home,2022
+1257,sports,2022
+1258,family,2022
+1259,health,2022
+1260,achievement,2022
+1261,family,2022
+1262,work from home,2022
+1263,family,2022
+1264,weather,2022
+1265,fun,2022
+1266,family,2022
+1267,friends,2022
+1268,fun,2022
+1269,sports,2022
+1270,sports,2022
+1271,sports,2022
+1272,family,2022
+1273,friends,2022
+1274,sports,2022
+1275,work from home,2022
+1276,family,2022
+1277,sports,2022
+1278,family,2022
+1279,food,2022
+1280,weekend,2022
+1281,fun,2022
+1282,family,2022
+1283,new day,2022
+1284,work from home,2022
+1285,family,2022
+1286,parent,2022
+1287,sports,2022
+1288,specific family,2022
+1289,family,2022
+1290,new day,2022
+1291,sports,2022
+1292,sports,2022
+1293,myself,2022
+1294,food,2022
+1295,work from home,2022
+1296,parent,2022
+1297,parent,2022
+1298,myself,2022
+1299,family,2022
+1300,faith,2022
+1301,faith,2022
+1302,sleeping,2022
+1303,faith,2022
+1304,parent,2022
+1305,work from home,2022
+1306,new day,2022
+1307,fun,2022
+1308,sports,2022
+1309,home,2022
+1310,sports,2022
+1311,parent,2022
+1312,parent,2022
+1313,sports,2022
+1314,home,2022
+1315,fun,2022
+1316,weekend,2022
+1317,family,2022
+1318,fun,2022
+1319,weekend,2022
+1320,fun,2022
+1321,achievement,2022
+1322,weekend,2022
+1323,friends,2022
+1324,sibling,2022
+1325,parent,2022
+1326,sports,2022
+1327,sports,2022
+1328,sports,2022
+1329,new day,2022
+1330,myself,2022
+1331,parent,2022
+1332,family,2022
+1333,career,2022
+1334,parent,2022
+1335,work from home,2022
+1336,home,2022
+1337,sports,2022
+1338,parent,2022
+1339,new day,2022
+1340,fun,2022
+1341,family,2022
+1342,parent,2022
+1343,myself,2022
+1344,sports,2022
+1345,family,2022
+1346,parent,2022
+1347,sibling,2022
+1348,parent,2022
+1349,new day,2023
+1350,new day,2023
+1351,myself,2023
+1352,parent,2023
+1353,family,2023
+1354,mental health,2023
+1355,mental health,2023
+1356,home,2023
+1357,myself,2023
+1358,exercise,2023
+1359,health,2023
+1360,family,2023
+1361,friends,2023
+1362,family,2023
+1363,career,2023
+1364,myself,2023
+1365,material,2023
+1366,home,2023
+1367,mental health,2023
+1368,exercise,2023
+1369,sports,2023
+1370,achievement,2023
+1371,sleeping,2023
+1372,family,2023
+1373,achievement,2023
+1374,material,2023
+1375,sibling,2023
+1376,myself,2023
+1377,home,2023
+1378,sleeping,2023
+1379,career,2023
+1380,career,2023
+1381,exercise,2023
+1382,sports,2023
+1383,home,2023
+1384,family,2023
+1385,weekend,2023
+1386,fun,2023
+1387,fun,2023
+1388,sibling,2023
+1389,friends,2023
+1390,family,2023
+1391,exercise,2023
+1392,work from home,2023
+1393,weather,2023
+1394,sleeping,2023
+1395,family,2023
+1396,home,2023
+1397,work from home,2023
+1398,weekend,2023
+1399,exercise,2023
+1400,food,2023
+1401,sleeping,2023
+1402,sibling,2023
